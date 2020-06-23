@@ -1,0 +1,42 @@
+
+html, body {
+    margin: 0;
+}
+
+.img-responsive {
+    width: 50em;
+    margin: 4em auto;
+}
+.img-responsive img {
+    display: blocK;
+    margin: 0 auto;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    color: rgb(92, 87, 85);
+    height: 5rem;
+}
+
+footer p{
+    font-family: 'Arial Narrow';
+    font-weight: bold;
+    font-size: 1.7rem;
+    margin: 0.3rem;
+    text-align: center;
+}
+
+/*.banner {
+    height: 500px;
+    max-width: 70em;
+    min-width: 50em;
+    margin: 3.5em auto;
+    display: flex;
+}
+
+.center {
+    color: black;
+    font-size: 5rem;
+    margin: auto;
+}*/
