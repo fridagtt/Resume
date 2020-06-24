@@ -1,0 +1,73 @@
+body{
+    background: #282828;
+    font-family: tahoma;
+    text-align: justify;
+    overflow: hidden;
+    
+}
+
+#about{
+    padding-top: 98px;
+    padding-bottom: 101px;
+}
+
+#about .p-first{
+    margin-bottom: 30px;
+}
+
+#about h2{
+    margin-bottom: 47px;
+    margin-top: 12px;
+}
+
+#about .about-link{
+    margin-top: 50px;
+    padding-left: 0px;
+}
+
+#about .about-link li{
+    display: inline-block;
+}
+
+#about .about-link li a i{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    line-height: 60px;
+    text-align: center;
+    border: 1px solid #d6c6b2;
+    margin-right: 10px;
+    font-size: 30px;
+    color: #bda281;
+    /*change properties smoothly*/
+    transition: all .3s;
+}
+
+#about .about-link li a i:hover{
+    color: #222222;
+    background: #d6c6b2;
+    border-color: #d6c6b2;
+}
+
+#about .about-img{
+    position: relative;
+    
+}
+
+#about .about-img .woman{
+    position: absolute;
+    top: 17px;
+    left: 0px;
+}
+
+.color-3{
+    margin-left: 15px; 
+    color: rgb(116, 93, 145);
+}
+
+p{
+    font-size: 18px;
+    line-height: 24px;
+    text-align: justify;
+    margin-left: 15px;
+}
