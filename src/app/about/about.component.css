@@ -66,6 +66,7 @@ body{
 }
 
 p{
+    color: rgb(92, 87, 85);
     font-size: 18px;
     line-height: 24px;
     text-align: justify;
