@@ -5,25 +5,28 @@ html, body {
 
 .img-responsive {
     width: 50em;
-    margin: 4em auto;
+    margin: 2em auto;
 }
 .img-responsive img {
     display: blocK;
     margin: 0 auto;
+    width: 24%;
+    height: auto;
 }
 
 footer {
     display: flex;
     flex-direction: column;
-    color: rgb(92, 87, 85);
+    color: rgb(92, 87, 85 );
     height: 5rem;
+    margin-bottom: 20px;
 }
 
 footer p{
     font-family: 'Arial Narrow';
     font-weight: bold;
     font-size: 1.7rem;
-    margin: 0.3rem;
+    margin: 0;
     text-align: center;
 }
 
