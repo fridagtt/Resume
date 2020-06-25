@@ -10,7 +10,6 @@ import { WorkComponent } from './work/work.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { AchievementsComponent } from './achievements/achievements.component';
 import { LeadershipsComponent } from './leaderships/leaderships.component';
-import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +21,6 @@ import { ContactComponent } from './contact/contact.component';
     ProjectsComponent,
     AchievementsComponent,
     LeadershipsComponent,
-    ContactComponent
   ],
   imports: [
     BrowserModule,

@@ -5,8 +5,9 @@ html, body {
 
 .img-responsive {
     width: 50em;
-    margin: 2em auto;
+    margin: 2.5em auto;
 }
+
 .img-responsive img {
     display: blocK;
     margin: 0 auto;

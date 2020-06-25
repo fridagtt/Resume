@@ -1,0 +1,32 @@
+li {
+    margin: 0 !important;
+    line-height: 2em;
+    text-align: justify;
+    list-style-type: circle;
+    color: rgb(92, 87, 85);
+}
+
+.education-title {
+    color: rgb(92, 73, 116);
+}
+
+.col-md-7 {
+    margin-top: 5.5em;
+    margin-bottom: 2.7em;
+}
+
+.education-logo {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.education-logo.last-image{
+    margin-top: 16px;
+}
+
+.col-md-5 {
+    padding-left: 2em;
+    padding-top: 3.5em;
+}
