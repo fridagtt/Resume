@@ -1,6 +1,10 @@
-.row {
-   /* background: blue;*/
+/*.row {
+    background: blue;
+}*/
+section {
+    padding-top: 3rem;
 }
+
 li {
     margin: 0 !important;
     line-height: 2em;
@@ -14,7 +18,8 @@ li {
 }
 
 .col-md-7 {
-    margin-top: 5.5em;
+   /* background: red;*/
+    margin-top: 3.5em;
     margin-bottom: 2.7em;
 }
 
@@ -39,10 +44,6 @@ li {
 .down-row-more {
     margin-top: 6em;
 }
-
-/*.up-row{
-    margin-bottom: 2em;
-}*/
 
 .bigger-img {
     width: 90%;
