@@ -1,0 +1,39 @@
+section {
+    padding-top: 3rem;
+}
+
+li {
+    margin: 0 !important;
+    line-height: 2em;
+    text-align: justify;
+    list-style-type: circle;
+    color: rgb(92, 87, 85);
+}
+
+.leaderships-title {
+    color: rgb(92, 73, 116);
+}
+
+.col-md-7 {
+     margin-top: 3.5em;
+     margin-bottom: 2.7em;
+ }
+
+ .col-md-5 {
+    padding-left: 2em;
+    display: flex;
+}
+
+.leaderships-logo {
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.leaderships-logo-smaller {
+    width: 65%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
