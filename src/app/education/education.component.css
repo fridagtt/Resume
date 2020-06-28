@@ -15,14 +15,14 @@ li {
     margin-bottom: 2.7em;
 }
 
-.education-logo {
+.education-image {
     width: 60%;
     height: auto;
     display: block;
     margin: 0 auto;
 }
 
-.education-logo.last-image{
+.education-image.last-image{
     margin-top: 15px;
 }
 
