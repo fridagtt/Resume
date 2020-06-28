@@ -8,6 +8,7 @@ import { EducationComponent } from './education/education.component';
 import { LeadershipsComponent } from './leaderships/leaderships.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { WorkComponent } from './work/work.component';
+import { AdditionalComponent } from './additional/additional.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -17,6 +18,7 @@ const routes: Routes = [
   { path: 'leaderships', component: LeadershipsComponent },
   { path: 'projects', component: ProjectsComponent },
   { path: 'work', component: WorkComponent },
+  { path: 'additional', component: AdditionalComponent },
 ];
 
 @NgModule({
