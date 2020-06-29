@@ -24,6 +24,10 @@ li {
     display: flex;
 }
 
+.down-row{
+    margin-top: 3em;
+}
+
 .leaderships-image {
     width: 80%;
     height: auto;
