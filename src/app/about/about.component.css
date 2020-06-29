@@ -3,25 +3,25 @@
     padding-bottom: 101px;
 }
 
-#about .p-first{
+.p-first{
     margin-bottom: 30px;
 }
 
-#about h2{
+h2{
     margin-bottom: 47px;
     margin-top: 12px;
 }
 
-#about .about-link{
+.about-link{
     margin-top: 50px;
     padding-left: 0px;
 }
 
-#about .about-link li{
+li{
     display: inline-block;
 }
 
-#about .about-link li a i{
+li a i{
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -35,17 +35,17 @@
     transition: all .3s;
 }
 
-#about .about-link li a i:hover{
+li a i:hover{
     color: #222222;
     background: #d6c6b2;
     border-color: #d6c6b2;
 }
 
-#about .about-img{
+.about-img{
     position: relative;
 }
 
-#about .about-img .woman{
+.about-img .woman{
     position: absolute;
     top: 17px;
     left: 0px;

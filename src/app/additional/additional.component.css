@@ -1,4 +1,4 @@
-section {
+#additionals {
     padding-top: 3rem;
 }
 
@@ -17,7 +17,7 @@ li.icon-links{
     margin-right: 1em !important;
 }
 
-#additionals li a i{
+li a i{
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -31,7 +31,7 @@ li.icon-links{
     transition: all .3s;
 }
 
-#additionals li a i:hover{
+li a i:hover{
     color: #222222;
     background: #d6c6b2;
     border-color: #d6c6b2;
@@ -39,6 +39,13 @@ li.icon-links{
 
 .additionals-title {
     color: rgb(92, 73, 116);
+}
+
+.additionals-image {
+    width: 85%;
+    height: auto;
+    display: block;
+    margin: auto;
 }
 
 .col-md-7 {
@@ -49,11 +56,4 @@ li.icon-links{
  .col-md-5 {
     padding-left: 2em;
     display: flex;
-}
-
-.additionals-image {
-    width: 85%;
-    height: auto;
-    display: block;
-    margin: auto;
 }

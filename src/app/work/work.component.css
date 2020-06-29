@@ -13,29 +13,7 @@ li.icon-links{
     margin-right: 1em !important;
 }
 
-.work-title {
-    color: rgb(92, 73, 116);
-}
-
-.col-md-7 {
-    margin-top: 5.5em;
-    margin-bottom: 2.7em;
-}
-
-.work-image {
-    width: 90%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-}
-
-.col-md-5 {
-    padding-left: 2em;
-    padding-top: 9em;
-}
-
-
-#work li a i{
+li a i{
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -49,8 +27,29 @@ li.icon-links{
     transition: all .3s;
 }
 
-#work li a i:hover{
+li a i:hover{
     color: #222222;
     background: #d6c6b2;
     border-color: #d6c6b2;
+}
+
+.work-title {
+    color: rgb(92, 73, 116);
+}
+
+.work-image {
+    width: 90%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.col-md-7 {
+    margin-top: 5.5em;
+    margin-bottom: 2.7em;
+}
+
+.col-md-5 {
+    padding-left: 2em;
+    padding-top: 9em;
 }

@@ -10,11 +10,6 @@ li {
     color: rgb(92, 73, 116);
 }
 
-.col-md-7 {
-    margin-top: 5.5em;
-    margin-bottom: 2.7em;
-}
-
 .education-image {
     width: 60%;
     height: auto;
@@ -24,6 +19,11 @@ li {
 
 .education-image.last-image{
     margin-top: 15px;
+}
+
+.col-md-7 {
+    margin-top: 5.5em;
+    margin-bottom: 2.7em;
 }
 
 .col-md-5 {

@@ -1,4 +1,4 @@
-section {
+#leaderships {
     padding-top: 3rem;
 }
 
@@ -14,20 +14,6 @@ li {
     color: rgb(92, 73, 116);
 }
 
-.col-md-7 {
-     margin-top: 3.5em;
-     margin-bottom: 2.7em;
- }
-
- .col-md-5 {
-    padding-left: 2em;
-    display: flex;
-}
-
-.down-row{
-    margin-top: 3em;
-}
-
 .leaderships-image {
     width: 80%;
     height: auto;
@@ -40,4 +26,18 @@ li {
     height: auto;
     display: block;
     margin: auto;
+}
+
+.col-md-7 {
+     margin-top: 3.5em;
+     margin-bottom: 2.7em;
+ }
+
+ .col-md-5 {
+    padding-left: 2em;
+    display: flex;
+}
+
+.down-row{
+    margin-top: 3em;
 }
