@@ -1,5 +1,6 @@
 #additionals {
     padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 li {
@@ -43,6 +44,13 @@ li a i:hover{
 
 .additionals-image {
     width: 85%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.additionals-image-smaller {
+    width: 65%;
     height: auto;
     display: block;
     margin: auto;
