@@ -38,6 +38,11 @@ li {
     display: flex;
 }
 
-.down-row{
-    margin-top: 3em;
+.row:first-of-type{
+    margin-top: 0em;
+
+}
+
+.row{
+    margin-top: 2em;
 }
